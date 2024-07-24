@@ -16,7 +16,7 @@
 
 - [x] 1 - Attaque DDos
 - [x] 2 - Information Ip
-- [x] D'autres Chose Arrive
+- [x] D'autres Choses Arrive
 
 
 <h1>📜・Description:</h1>
