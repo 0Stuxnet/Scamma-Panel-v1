@@ -51,5 +51,5 @@ Pour toute question ou assistance, rejoignez notre serveur Discord ici:
 
 Discord: https://discord.gg/Scamma
 
-Decelopper / Créator : Stuxnet < bousilleur ><br>
+Developper / Créator : Stuxnet < bousilleur ><br>
 </p>
